@@ -1,0 +1,62 @@
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #pink {
+    background: pink;
+  }
+  #yellow {
+    background: yellow;
+  }
+  #black {
+    background: black;
+  }
+  #green {
+    background: rgb(111, 245, 111);
+  }
+  #brown {
+    background: rgb(127, 81, 58);
+  }
+  .header{
+    text-align: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(237, 234, 166);
+    
+    
+  }
+  a{
+
+    padding-inline: 20px;
+    color: black;
+    text-decoration: none;
+    border-style:solid;
+
+  }
