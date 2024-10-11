@@ -26,7 +26,7 @@ A project where users can generate an unlimited number of colors and apply them 
 
 Getting Started
 Clone the repository:
-git clone https://github.com/ujjwal105/DOM-Projects.git
+git clone https://github.com/navjeetrajput14/DOM-Project.git
 Navigate to the project directory:
 cd DOM-Projects
 Open the desired project folder and run index.html in your preferred web browser.
