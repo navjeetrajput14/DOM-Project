@@ -24,6 +24,9 @@ A project that allows users to press different keys on the keyboard and see whic
 6. UnlimitedColors
 A project where users can generate an unlimited number of colors and apply them to the background.
 
+7.Expence Tracker
+In this Project users can track their expence and can maintain their income usage.
+
 Getting Started
 Clone the repository:
 git clone https://github.com/navjeetrajput14/DOM-Project.git
