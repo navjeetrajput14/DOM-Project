@@ -1,0 +1,29 @@
+body {
+    background-color: #212121;
+    color: #fff;
+  }
+  .container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  #clock {
+    font-size: 40px;
+    background-color: orange;
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+  nav{
+    text-align:center;
+    background-color:#e4d1d1;
+    padding: 10px 0;
+    border-radius: 20px;
+  }
+  a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding-left: 50px;
+}
