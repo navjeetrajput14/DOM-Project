@@ -4,6 +4,7 @@ The repository contains various DOM projects. Here's an updated README file for 
 DOM-Projects
 About
 This repository contains a collection of small projects utilizing DOM manipulation with HTML, CSS, and JavaScript. Below is a brief description of each project included in the repository.
+
 Projects
 
 1. BMICalculator
