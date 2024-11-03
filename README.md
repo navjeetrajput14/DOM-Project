@@ -26,6 +26,7 @@ A project where users can generate an unlimited number of colors and apply them 
 
 7.Expence Tracker
 In this Project users can track their expence and can maintain their income usage.
+
 8.GitHub Finder
 This project is a GitHub user search tool that retrieves and displays user profiles along with their repositories using the GitHub API. It includes error handling to show a message if the user is not found.
 
